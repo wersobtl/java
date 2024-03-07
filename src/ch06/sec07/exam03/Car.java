@@ -1,8 +1,9 @@
-package ch06.sec07;
+package ch06.sec07.exam03;
 
 public class Car {
 	
 	String company;
+	String model;
 	String name;
 	boolean state;
 	int speed;
